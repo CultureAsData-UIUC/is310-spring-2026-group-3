@@ -127,7 +127,7 @@ Highly suggest as a first step of identifying actual datasets and working to nar
 
 ### Zilong
 
-Please submit your dataset proposal within the next week or you will fail this part of the assignment. Happy to discuss more if you are stuck on ideas, but you need to submit something concrete by the deadline of a week from February 15, 2026.
+**Please submit your dataset proposal within the next week or you will fail this part of the assignment.** Happy to discuss more if you are stuck on ideas, but you need to submit something concrete by the deadline of a week from February 16, 2026.
 
 ### Rohan
 
