@@ -126,20 +126,23 @@ The major difference is accessibility and scale. Historical formats were physica
 Born-digital materials in music and social media include content that was created digitally and never existed in analog form.  
 
 Examples include:  
+- Music made in music creation platforms (Ableton, GarageBand)
 - TikTok sounds created directly in the app  
 - Instagram live performances  
 - SoundCloud-only releases  
-- AI-generated music  
+- AI generated music  
 
 Unlike digitized vinyl or scanned sheet music, these materials originate digitally. They are often shorter, optimized for platform algorithms, and dependent on user interaction.  
 
-Digitized objects preserve past material, while born-digital objects define current cultural production. Born-digital music is often shaped by trends, algorithm visibility, and platform-specific features, which distinguishes it from historical digitization efforts focused on preservation.  
+Digitized objects preserve past material, while born digital objects define current cultural production. Born digital music is often shaped by trends, algorithm visibility, and platform specific features, which distinguishes it from historical digitization efforts focused on preservation.  
 
 ---
 
 ## Oldest Digital Library/Archive  
 
-The IUMA (Internet Underground Music Archive), which started in 1993, is considered the first free, high-quality music archive on the web.  
+The IUMA (Internet Underground Music Archive), which started in 1993, is considered the first free, high quality music archive on the web.
+
+https://archive.org/details/iuma-archive
 
 **Maintenance and Updates:**  
 IUMA provided a way for independent musicians to share music with fans direct from their own home before the major streaming era started; as such, it was the first site of its kind and one of the pioneers of this new way to promote music. It was successful until too many times it was sold and could not maintain itself; after selling it, the majority of its collection has been saved or rescued by the Internet Archive to make sure it would not disappear forever.  
@@ -163,7 +166,7 @@ IUMA and earlier versions of Online Databases have depended on traditional taggi
 
 ## Viral Examples  
 
-An example of a viral digital music item is Napster (1999), a peer-to-peer file-sharing service.  
+An example of a viral digital music item is Napster (1999), a peer-to-peer file sharing service.  
 
 **What Happened:**  
 Napster allowed individuals to connect directly to computers where songs were stored on the user’s hard drive; in essence, each user’s hard disk becomes part of a gigantic, distributed repository for every song. Napster went viral due to its ability to allow individuals to easily locate and download virtually any song for free.  
