@@ -166,13 +166,15 @@ IUMA and earlier versions of Online Databases have depended on traditional taggi
 
 ## Viral Examples  
 
-An example of a viral digital music item is Napster (1999), a peer-to-peer file sharing service.  
+An example of a viral digital music item is Gangnam Style.
+https://www.guinnessworldrecords.com/world-records/107048-first-video-to-receive-one-billion-views  
 
 **What Happened:**  
-Napster allowed individuals to connect directly to computers where songs were stored on the user’s hard drive; in essence, each user’s hard disk becomes part of a gigantic, distributed repository for every song. Napster went viral due to its ability to allow individuals to easily locate and download virtually any song for free.  
+“Gangnam Style” by Psy became the first music video to surpass one billion views on YouTube, demonstrating how a digital music video could spread rapidly across global audiences through online sharing and social media rather than traditional promotion through radio or television. Youtube's algorithm and user engagement allowed the video to circulate internationally and reach audiences who may not have been exposed to the artist through conventional media channels.  
 
 **How It Affected the Music Industry:**  
-The traditional music business was negatively impacted by what became known as the “slashdotted” effect (also known as “slashdot effect”) by the combination of both an extremely dramatic surge of traffic due to digital distribution and this sudden crash of the traditional music model. As a result, the recording companies began creating legitimate and high-quality digital music repositories, such as the iTunes Store and eventually Spotify, in order to provide the consumer with a legal alternative to the viral activity associated with Napster.  
+The rise of viral YouTube music videos shifted YouTube into a primary distribution and discovery platform for music. Views, likes, comments, and shares became measurable digital metrics that record labels and artists use to evaluate popularity and audience engagement. This change reduced reliance on physical sales and traditional media gatekeepers, while also enabling artists to reach global audiences directly through digital platforms and online virality.
+
 
 ---
 
