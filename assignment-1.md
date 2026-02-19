@@ -90,10 +90,10 @@ Some ideas for digital objects and digital representations in our field might in
 
 Some digital objects and digital representations in the field of music and social media are songs, playlists, music videos, artist profiles, and engagement metrics.  
 
-- **Songs (MP3, WAV files)** – These are direct digital representations of recorded music. They may be digitized from analog recordings or created digitally.  
-- **Playlists (Spotify/Apple Music playlists)** – These are curated digital collections that show listening behavior, taste, and algorithmic recommendation systems.  
-- **Music videos (YouTube, TikTok clips)** – These are audiovisual digital objects that shape how music spreads and trends.  
-
+- **Songs (MP3, WAV files)** - These are direct digital representations of recorded music. They may be digitized from analog recordings or created digitally.  
+- **Playlists (Spotify/Apple Music playlists)** - These are curated digital collections that show listening behavior, taste, and algorithmic recommendation systems.  
+- **Music videos (YouTube)** - These are audiovisual digital objects that shape how music spreads and trends.  
+- **Physical Music Composition (Song Sheets, Printed Music)** - These are the physical, historical representations of music that get digitized into PDFs or scanned images.
 ---
 
 ## Digitization Processes  
