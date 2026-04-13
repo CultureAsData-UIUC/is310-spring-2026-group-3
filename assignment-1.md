@@ -90,10 +90,10 @@ Some ideas for digital objects and digital representations in our field might in
 
 Some digital objects and digital representations in the field of music and social media are songs, playlists, music videos, artist profiles, and engagement metrics.  
 
-- **Songs (MP3, WAV files)** – These are direct digital representations of recorded music. They may be digitized from analog recordings or created digitally.  
-- **Playlists (Spotify/Apple Music playlists)** – These are curated digital collections that show listening behavior, taste, and algorithmic recommendation systems.  
-- **Music videos (YouTube, TikTok clips)** – These are audiovisual digital objects that shape how music spreads and trends.  
-
+- **Songs (MP3, WAV files)** - These are direct digital representations of recorded music. They may be digitized from analog recordings or created digitally.  
+- **Playlists (Spotify/Apple Music playlists)** - These are curated digital collections that show listening behavior, taste, and algorithmic recommendation systems.  
+- **Music videos (YouTube)** - These are audiovisual digital objects that shape how music spreads and trends.  
+- **Physical Music Composition (Song Sheets, Printed Music)** - These are the physical, historical representations of music that get digitized into PDFs or scanned images.
 ---
 
 ## Digitization Processes  
@@ -126,20 +126,23 @@ The major difference is accessibility and scale. Historical formats were physica
 Born-digital materials in music and social media include content that was created digitally and never existed in analog form.  
 
 Examples include:  
+- Music made in music creation platforms (Ableton, GarageBand)
 - TikTok sounds created directly in the app  
 - Instagram live performances  
 - SoundCloud-only releases  
-- AI-generated music  
+- AI generated music  
 
 Unlike digitized vinyl or scanned sheet music, these materials originate digitally. They are often shorter, optimized for platform algorithms, and dependent on user interaction.  
 
-Digitized objects preserve past material, while born-digital objects define current cultural production. Born-digital music is often shaped by trends, algorithm visibility, and platform-specific features, which distinguishes it from historical digitization efforts focused on preservation.  
+Digitized objects preserve past material, while born digital objects define current cultural production. Born digital music is often shaped by trends, algorithm visibility, and platform specific features, which distinguishes it from historical digitization efforts focused on preservation.  
 
 ---
 
 ## Oldest Digital Library/Archive  
 
-The IUMA (Internet Underground Music Archive), which started in 1993, is considered the first free, high-quality music archive on the web.  
+The IUMA (Internet Underground Music Archive), which started in 1993, is considered the first free, high quality music archive on the web.
+
+https://archive.org/details/iuma-archive
 
 **Maintenance and Updates:**  
 IUMA provided a way for independent musicians to share music with fans direct from their own home before the major streaming era started; as such, it was the first site of its kind and one of the pioneers of this new way to promote music. It was successful until too many times it was sold and could not maintain itself; after selling it, the majority of its collection has been saved or rescued by the Internet Archive to make sure it would not disappear forever.  
@@ -163,13 +166,15 @@ IUMA and earlier versions of Online Databases have depended on traditional taggi
 
 ## Viral Examples  
 
-An example of a viral digital music item is Napster (1999), a peer-to-peer file-sharing service.  
+An example of a viral digital music item is Gangnam Style.
+https://www.guinnessworldrecords.com/world-records/107048-first-video-to-receive-one-billion-views  
 
 **What Happened:**  
-Napster allowed individuals to connect directly to computers where songs were stored on the user’s hard drive; in essence, each user’s hard disk becomes part of a gigantic, distributed repository for every song. Napster went viral due to its ability to allow individuals to easily locate and download virtually any song for free.  
+“Gangnam Style” by Psy became the first music video to surpass one billion views on YouTube, demonstrating how a digital music video could spread rapidly across global audiences through online sharing and social media rather than traditional promotion through radio or television. Youtube's algorithm and user engagement allowed the video to circulate internationally and reach audiences who may not have been exposed to the artist through conventional media channels.  
 
 **How It Affected the Music Industry:**  
-The traditional music business was negatively impacted by what became known as the “slashdotted” effect (also known as “slashdot effect”) by the combination of both an extremely dramatic surge of traffic due to digital distribution and this sudden crash of the traditional music model. As a result, the recording companies began creating legitimate and high-quality digital music repositories, such as the iTunes Store and eventually Spotify, in order to provide the consumer with a legal alternative to the viral activity associated with Napster.  
+The rise of viral YouTube music videos shifted YouTube into a primary distribution and discovery platform for music. Views, likes, comments, and shares became measurable digital metrics that record labels and artists use to evaluate popularity and audience engagement. This change reduced reliance on physical sales and traditional media gatekeepers, while also enabling artists to reach global audiences directly through digital platforms and online virality.
+
 
 ---
 
