@@ -1,0 +1,80 @@
+# Group Summaries
+
+### Inika: “All of Me”: Mining Users' Attributes from their Public Spotify Playlists
+
+Authors: Pier Paolo Tricomi, Luca Pajola, Luca Pasa, Mauro Conti  
+Title: “All of Me”: Mining Users' Attributes from their Public Spotify Playlists  
+Publication Venue: ACM Web Conference 2024  
+Year: 2024  
+DOI: https://doi.org/10.48550/arXiv.2401.14296  
+URL: https://arxiv.org/abs/2401.14296  
+Code Repo: https://github.com/pierz95/spotifyattributes  
+
+Part 1: AI Summary  
+“Please give me a 1-2 paragraph summary of this article.”  
+The paper explores how Spotify playlists can be used to infer user attributes such as personality traits, demographics, and behavioral patterns. The dataset consists of over 10,000 publicly shared playlists collected from 739 Spotify users, along with survey data that provides information about user characteristics. The authors treat playlists as a form of cultural expression, using them as a proxy for understanding individual identity through musical preferences.  
+To analyze this data, the authors apply DeepSet models, a type of neural network designed to work with unordered sets, such as collections of songs in playlists. The model learns patterns between musical features and user attributes, allowing it to predict characteristics such as openness or gender based on playlist composition. The results show that the model outperforms baseline approaches, suggesting that computational methods can effectively identify patterns in music listening behavior. However, the findings also imply that reducing complex human attributes to patterns in playlists may overlook important cultural and contextual factors.
+
+Part 2: Your Critical Assessment (1–2 paragraphs)  
+As far as I understand, the data utilized in this article includes playlists from the streaming service Spotify and user survey results. In terms of classification, this dataset can be seen as cultural and behavioral data. The playlist data is public and has been provided by 739 respondents, resulting in 10,000 playlists and hundreds of thousands of songs. This dataset can be considered as relatively extensive in its size, yet still suffers from limitations associated with relying on self-selection of the users who participated in creating curated playlists. Playlists, as a type of data collection, do not represent natural behavior and may actually reflect how users choose to present themselves. The other limitation of this dataset is that it does not cover some of the major features of consuming music, such as mood, social environment, context and other factors that influence music choice. Therefore, although it is possible to extract a number of insights from the dataset, they tend to oversimplify the process of interaction between users and music.  
+To address the issues with analyzing large quantities of data in an efficient manner, the researchers employed neural networks called DeepSet. As far as I understand, the approach to playlists was to treat them as a set of songs which can help to establish some correlation between playlists and certain properties of users, such as personality traits and demographic characteristics. Conceptually, computation can be understood as analysis since data was used in order to draw some conclusions about playlists and people. Clearly, the goals of the research have a profound impact on the way data is analyzed since, based on the premises, playlists can serve as indicators of identity. At the same time, computation does not provide any added value for understanding the cultural meaning behind data, while some observations can probably be derived using statistical analysis.
+
+Part 3: What AI Missed (1 paragraph)  
+The AI summary was able to capture the overall broad idea of the paper, especially how Spotify playlists and DeepSet models to predict user attributes. However, I think it doesn’t go in depth enough about the relationship between music and identity. It does not fully address the limitations of the dataset, like how the data comes from self response survey participants and public playlists, which might not reflect actual listening behavior. The summary also just assumes that the computational model is effective without questioning any assumptions that have been made. I found it interesting that there was less depth backing up the idea that identity can be inferred from musical patterns alone. It also does not discuss any of the broader ethical implications that are associated with this. 
+
+
+
+### Raymond: SONICS: Synthetic Or Not -- Identifying Counterfeit Songs  
+Authors: Md Awsafur Rahman, Zaber Ibn Abdul Hakim, Najibul Haque Sarker, Bishmoy Paul, Shaikh Anowarul Fattah  
+Venue: ICLR 2025  
+Prompt: Summarize the paper, which is provided in the URL below. This summary should be approximately 1 to 2 paragraphs long and should cover the basic idea, key findings, and results of the paper. https://arxiv.org/pdf/2408.14080  
+Response: The paper introduces SONICS, a large-scale benchmark and evaluation suite for end-to-end synthetic-song detection (i.e., songs where vocals, lyrics, instrumentation, and style can all be AI-generated). To address gaps in prior work the authors compiled ≈97k songs (≈49k labeled synthetic) sourced from contemporary generative platforms (e.g., Suno, Udio) and paired each audio track with lyrics/metadata to support multimodal detection studies. They also ran human-labeling experiments to establish a human baseline and provide standardized AI baselines for comparison.  
+Beyond the dataset, the paper proposes SpecTTTra, a spectrogram-aware Transformer architecture designed to capture long-range temporal structure in full-length songs while remaining computationally efficient. Experiments show SpecTTTra matches or exceeds common CNN/Transformer baselines on the SONICS benchmark while using substantially less compute and memory (authors report up to ~3× faster processing and ~6× memory savings) and strong detection performance (reported F1 ≈ 0.94 on long-song evaluations). The work’s main contributions are (1) a realistic, large end-to-end dataset for synthetic-song detection, (2) human and machine benchmarks, and (3) an efficient model architecture that highlights the importance of modeling long-range musical structure for robust fake-song detection.
+
+### Beau: https://doi.org/10.5334/tismir.10 
+
+Author(s): Sergio Oramas, Francesco Barbieri, Oriol Nieto, and Xavier Serra  
+Title: Multimodal Deep Learning for Music Genre Classification  
+Publication Venue: Transactions of the International Society for Music Information Retrieval (TISMIR)  
+Year: 2018  
+
+Prompt used: "Generate a 2-paragraph summary of the paper 'Multimodal Deep Learning for Music Genre Classification' by Oramas et al. (2018). Focus on the data used, the computational architecture, and the findings regarding how different data types (audio, images, text) contribute to genre accuracy."  
+
+In this study, the authors investigate the potential of deep learning to enhance the accuracy of musical genre classification using diverse sources of data, including audio, cover art, and textual data in the form of reviews/tags. The authors contend that traditional methods of classifying genres depend primarily on audio data, which may not encompass the complete cultural milieu of a genre of music. Therefore, they propose a multimodal neural network architecture, in which individual neural networks (CNNs for each of the two types of data, as well as a feedforward network for each of the text-based data) are developed for each type of data. The output from the networks will be subsequently fused together to generate a single feature vector representation of a musical track or album within an overall multimodal feature space.  
+
+The results indicate that the fused multimodal data set provides significantly better classification accuracy than a single modality. Moreover, the researchers found that the data sets complement each other in many instances; for example, Metal and Classical genres exhibit unique visual attributes on their album covers that provide additional support for classification beyond the auditory signal (despite the potential for confusion in audio classification). In conclusion, the authors note that multimodal learning adds not only an additional layer of accuracy but also allows for a richer understanding of the construction of a musical genre from aural, visual and social perspectives.  
+
+The AI summary correctly identifies the “what” with an audio/image/text fusion strategy but has some gaps in providing context as to the trade-off for those choices, especially due to the interpretability challenge. For example, while using a multimodal approach gives you greater accuracy; it also causes you to have less transparency than a single modal, meaning there will be difficulties telling which visual feature (such as a color or font type) caused a genre classification to occur in a multimodal model as opposed to only using one modality.  
+
+Also, the AI summary implied that the use of multiple modalities has always been beneficial, while in fact the paper noted the use of text can create noise for example as text can be subjective and the reviewer shows bias; therefore using text in certain genres actually reduces the accuracy of the model. Thus, the AI summary “oversimplified” the use of multiple modalities to determine the accuracy of the models and did not explain the technical disconnect between objective data (e.g., audio) and subjective data (e.g., cultural text).  
+
+
+### Eshaan:  
+Authors: Xilin Jiang, Qiaolin Wang, Junkai Wu, Xiaomin He, Zhongweang Xu, Yinghao Ma, Minshuo Piao, Kaiyi Yang, Xiuwen Zheng, Riki Shimizu, Yicong Chen, Arsalan Firoozi, Gavin Mischler, Sukru Samet Dindar, Richard Antonello, Linyang He, Tsun-An Hsieh, Xulin Fan, Yulun Wu, Yuesheng Ma, Chaitanya Amballa, Weixiong Chen, Jiarui Hai, Ruisi Li, Vishal Choudhari, Cong Han, Yinghao Aaron Li, Adeen Flinker, Mounya Elhilali, Emmanouil Benetos, Mark Hasegawa-Johnson, Romit Roy Choudhury, Nima Mesgarani  
+
+Title: AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs’ Contextual and Cultural Knowledge and Thinking  
+
+Publication venue: arXiv preprint  
+Year: 2026  
+DOI / URL  
+https://arxiv.org/abs/2601.17645   
+Link to code / dataset  
+https://avmemeexam.github.io/public   
+
+Prompt: Can you please give a 1 - 2 paragraph summary of what this research covers as it pertains to computational methods and digital humanities  
+
+This research sits squarely at the intersection of computational methods and digital humanities by using large-scale, human-curated cultural data (audio-visual memes) to evaluate how well AI systems understand meaning beyond literal text. The authors introduce AVMeme Exam, a benchmark dataset of over 1,000 culturally significant audio-visual clips—ranging from music and movie scenes to internet memes—annotated with metadata and structured questions that probe not just recognition, but interpretation, emotion, context, and cultural usage. From a computational perspective, the work operationalizes complex humanistic concepts like cultural knowledge, humor, and contextual meaning into measurable tasks, enabling systematic evaluation of multimodal large language models (MLLMs).  
+From a digital humanities angle, the project treats memes and media artifacts as culturally embedded texts that require shared knowledge, historical context, and social understanding to interpret correctly. The study shows that while current AI models perform well on surface-level linguistic tasks, they consistently fail at deeper cultural reasoning—such as understanding why a meme is meaningful, how it is used, or what emotional or social context it carries. This highlights a key limitation in computational approaches to human culture: models can process data, but they struggle with lived, collective meaning. In that sense, the research contributes to digital humanities by both creating a new kind of cultural dataset and exposing the gap between computational analysis and true cultural understanding.  
+
+What it missed:  
+
+The AI summary gets the general idea right, as AI always does. It’s always rather generic. It recognizes that the paper is about evaluating cultural understanding using a multimodal dataset and that it connects computational methods with digital humanities. But it still overlooks a lot of what I considered important. It treats the benchmark as just another dataset with “structured questions,” when in reality the whole point of it was how difficult it is to even define and standardize something like cultural meaning in the first place. The paper spends a lot of time dealing with annotation complexity and ambiguity in interpretation. But more than that, how cultural context isn’t universally shared. The summary GPT generated glossed over that and made it seem more clean and measurable than it actually is. It also underplayed the tradeoffs in evaluation, such as the fact that models can appear to perform well depending on how questions are framed, even if they don’t truly understand the content. More importantly, the summary assumed that turning culture into tasks is a neutral process, when the paper implicitly shows that this transformation itself is a limitation. So while the AI captures the surface level contribution, it misses the deeper meaning and tension between forcing cultural meaning into computational form and the fact that a lot of that meaning doesn’t translate cleanly in the first place like we learned in class..  
+
+
+
+### Rohan  
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02239/full  
+Summary:  
+This paper is about how machine learning can be used to understand emotions in music. The researchers collected data from people who listened to music and recorded how they felt. They also used features from the music like tempo and pitch, and even body signals like heart rate to understand emotions better. Then they used different machine learning models to connect all this data.  
+The results show that emotions in music come from both the sound of the music and how people personally feel. The study found that neural networks worked best for predicting emotions. But at the same time, the paper shows that emotions are complex and cannot be fully captured by machines.   
+The AI summary gives a basic idea of the paper, but it is kind of too simple. It does not clearly explain that real people’s responses are a big part of the data.I also feel like the AI makes it sound easier than it actually is. It does not really talk about how complex music emotions are. Like, you know how one song can mean different things to different people, that part is missing. So overall, the AI summary is okay for a quick understanding, but it misses some important details and deeper meaning.
