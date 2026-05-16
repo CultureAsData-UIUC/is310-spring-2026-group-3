@@ -1,6 +1,6 @@
 # Data Essay Final Submission
 
-Eshaan Andotra · IS 310 · May 15, 2026
+Eshaan Andotra - IS 310 - May 15, 2026
 
 ## The question and the dataset
 
