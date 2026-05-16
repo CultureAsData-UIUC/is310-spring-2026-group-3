@@ -1,0 +1,124 @@
+Song,Artist,Genre,Mood,Energy,Time,Skip,Source,Popularity,Data_Type
+Blinding Lights,The Weeknd,Pop,energetic,5,night,no,search,95,manual
+Shape of You,Ed Sheeran,Pop,happy,3,morning,no,search,93,manual
+Someone Like You,Adele,Pop,sad,2,night,no,search,90,manual
+HUMBLE.,Kendrick Lamar,Hip-Hop,stressed,5,afternoon,no,search,91,manual
+Levitating,Dua Lipa,Pop,happy,5,afternoon,no,search,92,manual
+Stay,The Kid LAROI,Pop,emotional,3,night,no,search,89,manual
+Bad Guy,Billie Eilish,Pop,dark,3,night,no,search,90,manual
+Sicko Mode,Travis Scott,Hip-Hop,stressed,5,night,no,search,88,manual
+Perfect,Ed Sheeran,Pop,calm,2,night,no,search,87,manual
+Rolling in the Deep,Adele,Pop,stressed,3,night,no,search,89,manual
+God’s Plan,Drake,Hip-Hop,calm,3,afternoon,no,search,91,manual
+Sunflower,Post Malone,Pop,calm,3,afternoon,no,search,90,manual
+Old Town Road,Lil Nas X,Hip-Hop,happy,3,afternoon,no,search,92,manual
+Drivers License,Olivia Rodrigo,Pop,sad,2,night,no,search,91,manual
+Industry Baby,Lil Nas X,Hip-Hop,confident,5,afternoon,no,search,90,manual
+Counting Stars,OneRepublic,Pop,hopeful,3,morning,no,search,88,manual
+Lose Yourself,Eminem,Hip-Hop,motivated,5,afternoon,no,search,93,manual
+Calm Down,Rema,Afrobeat,calm,3,afternoon,no,search,89,manual
+As It Was,Harry Styles,Pop,reflective,3,morning,no,search,91,manual
+Love Yourself,Justin Bieber,Pop,calm,2,night,no,search,87,manual
+Rockstar,Post Malone,Hip-Hop,dark,5,night,no,search,90,manual
+Senorita,Shawn Mendes,Pop,romantic,3,afternoon,no,search,88,manual
+Havana,Camila Cabello,Pop,happy,3,afternoon,no,search,89,manual
+Circles,Post Malone,Pop,calm,3,night,no,search,90,manual
+Memories,Maroon 5,Pop,sad,2,night,no,search,87,manual
+Believer,Imagine Dragons,Rock,stressed,5,afternoon,no,search,88,manual
+Thunder,Imagine Dragons,Rock,stressed,5,afternoon,no,search,86,manual
+Radioactive,Imagine Dragons,Rock,dark,5,night,no,search,87,manual
+Closer,The Chainsmokers,EDM,emotional,3,night,no,search,89,manual
+Roses,The Chainsmokers,EDM,calm,3,night,no,search,86,manual
+Faded,Alan Walker,EDM,sad,3,night,no,search,90,manual
+Alone,Alan Walker,EDM,lonely,3,night,no,search,87,manual
+Animals,Martin Garrix,EDM,stressed,5,night,no,search,88,manual
+Titanium,David Guetta,EDM,strong,5,afternoon,no,search,89,manual
+Wake Me Up,Avicii,EDM,hopeful,3,morning,no,search,90,manual
+Levels,Avicii,EDM,happy,5,afternoon,no,search,91,manual
+Cheap Thrills,Sia,Pop,happy,5,afternoon,no,search,88,manual
+Elastic Heart,Sia,Pop,emotional,3,night,no,search,87,manual
+Chandelier,Sia,Pop,stressed,5,night,no,search,89,manual
+Royals,Lorde,Pop,calm,2,night,no,search,86,manual
+Team,Lorde,Pop,reflective,3,afternoon,no,search,85,manual
+Yellow,Coldplay,Rock,romantic,2,night,no,search,88,manual
+Fix You,Coldplay,Rock,emotional,2,night,no,search,90,manual
+Paradise,Coldplay,Rock,hopeful,3,afternoon,no,search,87,manual
+Viva La Vida,Coldplay,Rock,reflective,3,afternoon,no,search,89,manual
+Numb,Linkin Park,Rock,sad,5,night,no,search,91,manual
+In the End,Linkin Park,Rock,emotional,5,night,no,search,92,manual
+Faint,Linkin Park,Rock,stressed,5,night,no,search,88,manual
+Smells Like Teen Spirit,Nirvana,Rock,rebellious,5,night,no,search,93,manual
+Come As You Are,Nirvana,Rock,calm,3,night,no,search,90,manual
+Billie Jean,Michael Jackson,Pop,groovy,3,afternoon,no,search,95,manual
+Thriller,Michael Jackson,Pop,happy,5,afternoon,no,search,96,manual
+Beat It,Michael Jackson,Pop,stressed,5,afternoon,no,search,94,manual
+Smooth Criminal,Michael Jackson,Pop,dark,5,night,no,search,93,manual
+Uptown Funk,Bruno Mars,Funk,happy,5,afternoon,no,search,94,manual
+Grenade,Bruno Mars,Pop,sad,3,night,no,search,89,manual
+Locked Out of Heaven,Bruno Mars,Pop,energetic,5,afternoon,no,search,90,manual
+Just the Way You Are,Bruno Mars,Pop,romantic,2,night,no,search,91,manual
+Sorry,Justin Bieber,Pop,calm,3,afternoon,no,search,90,manual
+Peaches,Justin Bieber,Pop,calm,3,afternoon,no,search,88,manual
+Baby,Justin Bieber,Pop,happy,3,afternoon,no,search,87,manual
+Firework,Katy Perry,Pop,motivated,5,afternoon,no,search,89,manual
+Roar,Katy Perry,Pop,strong,5,afternoon,no,search,90,manual
+Dark Horse,Katy Perry,Pop,dark,3,night,no,search,88,manual
+Shake It Off,Taylor Swift,Pop,happy,5,morning,no,search,91,manual
+Blank Space,Taylor Swift,Pop,playful,3,afternoon,no,search,90,manual
+Love Story,Taylor Swift,Pop,romantic,3,night,no,search,92,manual
+Anti-Hero,Taylor Swift,Pop,reflective,3,night,no,search,91,manual
+Bad Blood,Taylor Swift,Pop,stressed,5,night,no,search,88,manual
+Style,Taylor Swift,Pop,calm,3,night,no,search,89,manual
+Wildest Dreams,Taylor Swift,Pop,dreamy,2,night,no,search,90,manual
+Heat Waves,Glass Animals,Pop,calm,3,night,no,search,89,manual
+Let Her Go,Passenger,Pop,sad,2,night,no,search,88,manual
+Photograph,Ed Sheeran,Pop,emotional,2,night,no,search,90,manual
+Sandman,A$AP Rocky,Hip-Hop,calm,3,night,no,playlist,70,scaled
+Location,Playboi Carti,Hip-Hop,calm,3,night,no,playlist,85,scaled
+From Florida With Love,Drake,Hip-Hop,calm,3,afternoon,no,playlist,80,scaled
+They Don’t Care About Us,Michael Jackson,Pop,stressed,4,afternoon,no,playlist,90,scaled
+Sorrows,Bryson Tiller,R&B,sad,2,night,no,playlist,75,scaled
+Violent Crimes,Kanye West,Hip-Hop,sad,2,night,no,playlist,88,scaled
+White Iverson,Post Malone,Hip-Hop,calm,3,night,no,playlist,92,scaled
+Pretty Little Fears,6LACK,R&B,sad,2,night,no,playlist,84,scaled
+Circadian Rhythm,Drake,Hip-Hop,calm,3,night,no,playlist,78,scaled
+Rich Baby Daddy,Drake,Hip-Hop,happy,5,afternoon,no,playlist,82,scaled
+CRUSH,Playboi Carti,Hip-Hop,stressed,5,night,no,playlist,76,scaled
+Star67,Drake,Hip-Hop,calm,3,night,no,playlist,85,scaled
+Faith,The Weeknd,R&B,sad,2,night,no,playlist,89,scaled
+In My Room,Frank Ocean,R&B,calm,2,night,no,playlist,83,scaled
+Dreamin,PARTYNEXTDOOR,R&B,sad,2,night,no,playlist,77,scaled
+Break From Toronto,PARTYNEXTDOOR,R&B,sad,2,night,no,playlist,81,scaled
+Crew Love,Drake,R&B,calm,3,night,no,playlist,90,scaled
+Come Thru,Drake,R&B,calm,3,night,no,playlist,88,scaled
+Sky Walker,Miguel,R&B,happy,4,afternoon,no,playlist,86,scaled
+EVIL JORDAN,Playboi Carti,Hip-Hop,stressed,5,night,no,playlist,79,scaled
+712PM,Future,Hip-Hop,stressed,5,night,no,playlist,87,scaled
+United In Grief,Kendrick Lamar,Hip-Hop,stressed,4,afternoon,no,playlist,91,scaled
+Count Me Out,Kendrick Lamar,Hip-Hop,stressed,4,afternoon,no,playlist,90,scaled
+So Appalled,Kanye West,Hip-Hop,stressed,5,night,no,playlist,89,scaled
+Company,Drake,Hip-Hop,calm,3,night,no,playlist,84,scaled
+New Choppa,Playboi Carti,Hip-Hop,stressed,5,night,no,playlist,82,scaled
+Last Call,Kanye West,Hip-Hop,calm,3,night,no,playlist,86,scaled
+Alright,Kendrick Lamar,Hip-Hop,happy,5,afternoon,no,playlist,95,scaled
+Jump Out The Face,Meek Mill,Hip-Hop,stressed,5,night,no,playlist,80,scaled
+City Of God,Kanye West,Hip-Hop,stressed,5,night,no,playlist,88,scaled
+TSU,Drake,R&B,calm,3,night,no,playlist,85,scaled
+Jaded,Drake,R&B,sad,2,night,no,playlist,83,scaled
+Only One,Kanye West,Pop,sad,2,night,no,playlist,84,scaled
+Moon,Kanye West,Pop,calm,2,night,no,playlist,86,scaled
+Ghost Town,Kanye West,Pop,sad,2,night,no,playlist,92,scaled
+Walking On A Dream,Empire Of The Sun,Pop,happy,4,morning,no,playlist,89,scaled
+Girls Want Girls,Drake,Hip-Hop,calm,3,afternoon,no,playlist,87,scaled
+Bitch Don’t Kill My Vibe,Kendrick Lamar,Hip-Hop,calm,3,afternoon,no,playlist,93,scaled
+Slide,Calvin Harris,EDM,happy,4,afternoon,no,playlist,91,scaled
+Self Control,Frank Ocean,R&B,sad,2,night,no,playlist,94,scaled
+The London,Young Thug,Hip-Hop,stressed,4,afternoon,no,playlist,88,scaled
+On That Time,Playboi Carti,Hip-Hop,stressed,5,night,no,playlist,81,scaled
+Redbone,Childish Gambino,R&B,calm,3,night,no,playlist,96,scaled
+Purity,A$AP Rocky,Hip-Hop,sad,2,night,no,playlist,82,scaled
+Sing About Me,Kendrick Lamar,Hip-Hop,sad,2,night,no,playlist,95,scaled
+Over My Dead Body,Drake,Hip-Hop,calm,3,night,no,playlist,85,scaled
+Fire & Desire,Drake,R&B,calm,3,night,no,playlist,83,scaled
+Nights,Frank Ocean,R&B,sad,2,night,no,playlist,97,scaled
+
