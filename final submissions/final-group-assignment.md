@@ -1,4 +1,4 @@
-# Your group will collaboratively write a document with you group that synthesizes what you collectively learned about working with your particular type of cultural data.
+Your group will collaboratively write a document with you group that synthesizes what you collectively learned about working with your particular type of cultural data.
 
 This is NOT a repeat of individual data essays—it’s methodological guidance and collective wisdom for future researchers.
 
