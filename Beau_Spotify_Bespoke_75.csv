@@ -1,0 +1,76 @@
+track_name,artist_name,genre,energy,danceability,valence,Human_Vibe_Tag,Discovery_Reason
+Alright,Kendrick Lamar,Hip-Hop,0.7,0.87,0.69,Street,Expands taste through rhythmic complexity.
+Hotline Bling,Drake,Hip-Hop,0.7,0.74,0.46,Focus,Expands taste through rhythmic complexity.
+March Madness,Future,Hip-Hop,0.9,0.87,0.34,Focus,Expands taste through rhythmic complexity.
+White Iverson,Post Malone,Hip-Hop,0.64,0.84,0.5,Focus,Expands taste through rhythmic complexity.
+Antidote,Travis Scott,Hip-Hop,0.64,0.79,0.37,Club Anthem,Expands taste through rhythmic complexity.
+Not Like Us,Kendrick Lamar,Hip-Hop,0.92,0.86,0.32,Street,Expands taste through rhythmic complexity.
+COMË N GO,Yeat,Hip-Hop,0.89,0.85,0.61,Aggressive,Expands taste through rhythmic complexity.
+Sticky,"Tyler, The Creator",Hip-Hop,0.83,0.74,0.63,Street,Expands taste through rhythmic complexity.
+Him All Along,Gunna,Hip-Hop,0.91,0.79,0.47,High Energy,Expands taste through rhythmic complexity.
+Dark Thoughts,Lil Tecca,Hip-Hop,0.81,0.88,0.7,Street,Expands taste through rhythmic complexity.
+Bodies,Offset,Hip-Hop,0.88,0.74,0.67,Street,Expands taste through rhythmic complexity.
+Nokia,Drake,Hip-Hop,0.62,0.78,0.48,Street,Expands taste through rhythmic complexity.
+Lovin On Me,Jack Harlow,Hip-Hop,0.94,0.76,0.41,Club Anthem,Expands taste through rhythmic complexity.
+Redrum,21 Savage,Hip-Hop,0.65,0.77,0.65,Club Anthem,Expands taste through rhythmic complexity.
+Type Shit,Metro Boomin,Hip-Hop,0.82,0.77,0.46,Club Anthem,Expands taste through rhythmic complexity.
+Outside,Cardi B,Hip-Hop,0.89,0.7,0.58,Street,Expands taste through rhythmic complexity.
+Anxiety,Doechii,Hip-Hop,0.95,0.79,0.56,Street,Expands taste through rhythmic complexity.
+TOXIC,Playboi Carti,Hip-Hop,0.77,0.79,0.46,Focus,Expands taste through rhythmic complexity.
+Leavin,Rod Wave,Hip-Hop,0.64,0.76,0.68,High Energy,Expands taste through rhythmic complexity.
+Typa,GloRilla,Hip-Hop,0.64,0.81,0.54,Club Anthem,Expands taste through rhythmic complexity.
+LOVER GIRL,Megan Thee Stallion,Hip-Hop,0.69,0.74,0.53,Street,Expands taste through rhythmic complexity.
+squabble up,Kendrick Lamar,Hip-Hop,0.88,0.76,0.66,High Energy,Expands taste through rhythmic complexity.
+Which One,Central Cee,Hip-Hop,0.62,0.84,0.53,High Energy,Expands taste through rhythmic complexity.
+Community,JID,Hip-Hop,0.62,0.75,0.62,Club Anthem,Expands taste through rhythmic complexity.
+KICK OUT,Travis Scott,Hip-Hop,0.89,0.78,0.67,Club Anthem,Expands taste through rhythmic complexity.
+Mascara,Jazmine Sullivan,R&B,0.32,0.5,0.4,Emotional,"Transitions user into moody, melodic textures."
+Coffee,Miguel,R&B,0.37,0.59,0.44,Smooth,"Transitions user into moody, melodic textures."
+Exchange,Bryson Tiller,R&B,0.57,0.43,0.31,Late Night,"Transitions user into moody, melodic textures."
+Love Galore,SZA,R&B,0.48,0.59,0.28,Emotional,"Transitions user into moody, melodic textures."
+Is There Someone Else?,The Weeknd,R&B,0.38,0.47,0.39,Chill,"Transitions user into moody, melodic textures."
+Trust,Brent Faiyaz,R&B,0.33,0.47,0.24,Chill,"Transitions user into moody, melodic textures."
+Folded,Kehlani,R&B,0.44,0.43,0.48,Sultry,"Transitions user into moody, melodic textures."
+Diamond Boy,SZA,R&B,0.43,0.59,0.32,Smooth,"Transitions user into moody, melodic textures."
+Residuals,Chris Brown,R&B,0.33,0.59,0.47,Sultry,"Transitions user into moody, melodic textures."
+Devotion,Tone Stith,R&B,0.6,0.65,0.34,Emotional,"Transitions user into moody, melodic textures."
+Burning Blue,Mariah the Scientist,R&B,0.38,0.54,0.49,Smooth,"Transitions user into moody, melodic textures."
+Taste,Coco Jones,R&B,0.6,0.59,0.43,Sultry,"Transitions user into moody, melodic textures."
+On and On,Tyla,R&B,0.32,0.59,0.34,Emotional,"Transitions user into moody, melodic textures."
+Love In the Middle,Kevin Ross,R&B,0.47,0.43,0.35,Sultry,"Transitions user into moody, melodic textures."
+Soft Girl Era,Ari Lennox,R&B,0.4,0.43,0.25,Chill,"Transitions user into moody, melodic textures."
+Ms. Goody Two Shoes,Alex Isley,R&B,0.32,0.67,0.28,Sultry,"Transitions user into moody, melodic textures."
+WY@,Brent Faiyaz,R&B,0.32,0.47,0.24,Emotional,"Transitions user into moody, melodic textures."
+Good Good,Usher,R&B,0.33,0.47,0.23,Sultry,"Transitions user into moody, melodic textures."
+Girls Need Love,Summer Walker,R&B,0.41,0.55,0.37,Smooth,"Transitions user into moody, melodic textures."
+On My Mama,Victoria Monét,R&B,0.47,0.49,0.45,Chill,"Transitions user into moody, melodic textures."
+Made For Me,Muni Long,R&B,0.38,0.41,0.45,Emotional,"Transitions user into moody, melodic textures."
+Pink + White,Frank Ocean,R&B,0.49,0.61,0.47,Chill,"Transitions user into moody, melodic textures."
+Best Part,Daniel Caesar,R&B,0.58,0.7,0.28,Sultry,"Transitions user into moody, melodic textures."
+Damage,H.E.R.,R&B,0.35,0.58,0.34,Late Night,"Transitions user into moody, melodic textures."
+Location,Khalid,R&B,0.39,0.47,0.5,Smooth,"Transitions user into moody, melodic textures."
+Hello,Adele,Pop,0.78,0.62,0.71,Anthemic,Accessible entry point for general listeners.
+Sorry,Justin Bieber,Pop,0.58,0.84,0.6,Upbeat,Accessible entry point for general listeners.
+Can't Feel My Face,The Weeknd,Pop,0.74,0.71,0.89,Radio-Friendly,Accessible entry point for general listeners.
+Die with a Smile,Lady Gaga & Bruno Mars,Pop,0.72,0.63,0.7,Radio-Friendly,Accessible entry point for general listeners.
+Birds of a Feather,Billie Eilish,Pop,0.57,0.76,0.49,Upbeat,Accessible entry point for general listeners.
+Espresso,Sabrina Carpenter,Pop,0.55,0.68,0.75,Radio-Friendly,Accessible entry point for general listeners.
+Pink Pony Club,Chappell Roan,Pop,0.7,0.78,0.42,Radio-Friendly,Accessible entry point for general listeners.
+APT.,Rosé & Bruno Mars,Pop,0.57,0.77,0.4,Upbeat,Accessible entry point for general listeners.
+Lose Control,Teddy Swims,Pop,0.8,0.7,0.51,Radio-Friendly,Accessible entry point for general listeners.
+Beautiful Things,Benson Boone,Pop,0.8,0.75,0.71,Sad-Girl,Accessible entry point for general listeners.
+Cruel Summer,Taylor Swift,Pop,0.79,0.8,0.57,Summer Vibe,Accessible entry point for general listeners.
+Flowers,Miley Cyrus,Pop,0.77,0.72,0.49,Sad-Girl,Accessible entry point for general listeners.
+Houdini,Dua Lipa,Pop,0.81,0.63,0.45,Anthemic,Accessible entry point for general listeners.
+Vampire,Olivia Rodrigo,Pop,0.66,0.83,0.42,Summer Vibe,Accessible entry point for general listeners.
+As It Was,Harry Styles,Pop,0.68,0.7,0.59,Anthemic,Accessible entry point for general listeners.
+That's So True,Gracie Abrams,Pop,0.83,0.61,0.6,Radio-Friendly,Accessible entry point for general listeners.
+Greedy,Tate McRae,Pop,0.52,0.64,0.55,Anthemic,Accessible entry point for general listeners.
+we can't be friends,Ariana Grande,Pop,0.66,0.78,0.69,Upbeat,Accessible entry point for general listeners.
+Eyes Closed,Ed Sheeran,Pop,0.71,0.63,0.45,Summer Vibe,Accessible entry point for general listeners.
+Why Why Why,Shawn Mendes,Pop,0.6,0.74,0.7,Anthemic,Accessible entry point for general listeners.
+Solar Power,Lorde,Pop,0.54,0.6,0.43,Summer Vibe,Accessible entry point for general listeners.
+Heat Waves,Glass Animals,Pop,0.52,0.71,0.55,Sad-Girl,Accessible entry point for general listeners.
+The Less I Know the Better,Tame Impala,Pop,0.58,0.71,0.65,Upbeat,Accessible entry point for general listeners.
+Rush,Troye Sivan,Pop,0.61,0.62,0.89,Upbeat,Accessible entry point for general listeners.
+Apple,Charli xcx,Pop,0.55,0.8,0.85,Summer Vibe,Accessible entry point for general listeners.
